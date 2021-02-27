@@ -2,7 +2,7 @@
   {
     "id": 1,
     "slug": "MasterGroup",
-    "path": "http://yandex.ru",
+    "path": "https://mastergrouppn.netlify.app",
     "title": "Ремонт компьютерной техники.",
     "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, JS, SCSS, Gulp.",
     "image": "./images/master-group.jpg",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "slug": "Sport Complex",
-    "path": "http://yandex.ru",
+    "path": "https://sportcomplexpn.netlify.app",
     "title": "Спортивный комплекс",
     "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
     "image": "./images/sports-complex.jpg",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "slug": "Uber Taxi",
-    "path": "http://yandex.ru",
+    "path": "https://ubertaxipn.netlify.app",
     "title": "Uber такси",
     "desc": "Сайт, главная страница. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
     "image": "./images/uber-taxi.jpg",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "slug": "Shans",
-    "path": "http://yandex.ru",
+    "path": "https://shanspn.netlify.app",
     "title": "Интернет-магазин Shans",
     "desc": "Интернет-магазин, главная страница. Сделан спомощью технологий: HTML, CSS, SCSS, JS, Slick Slider, Gulp.",
     "image": "./images/shans.jpg",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "slug": "Landing",
-    "path": "http://yandex.ru",
+    "path": "https://landingpn.netlify.app",
     "title": "Landing Page",
     "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
     "image": "./images/landing.jpg",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "slug": "Portfolio",
-    "path": "http://yandex.ru",
+    "path": "https://portfoliopn.netlify.app",
     "title": "Landing Portfolio",
     "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
     "image": "./images/portfolio.jpg",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "slug": "rosa",
-    "path": "http://yandex.ru",
+    "path": "https://rosapn.netlify.app",
     "title": "Ресторан",
     "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
     "image": "./images/rosa.jpg",
