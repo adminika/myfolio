@@ -1,0 +1,36 @@
+.sidebar {
+  background-color: #1f1f1f;
+  color: #fff;
+  min-height: 100vh;
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  flex-basis: auto;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  flex-basis: 17%;
+  max-width: 17%;
+}
+
+.column {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  display: flex;
+  width: 17%;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 40px 10px;
+  overflow: hidden;
+  box-shadow: 5px 0px 8px 0px rgba(119, 119, 119, 0.4);
+}
+
+.column footer {
+  text-align: center;
+}
+
+@media screen and (max-width: 1023px) {
+  .sidebar {
+    display: none;
+  }
+}

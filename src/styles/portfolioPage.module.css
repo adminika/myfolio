@@ -1,0 +1,29 @@
+.container {
+  padding: 0 20px;
+  margin: 4rem auto;
+  max-width: 70rem;
+  width: 100%;
+  text-align: center;
+}
+
+.container h1 {
+  margin-bottom: 1.5rem;
+}
+
+.container h2 {
+  font-weight: 400;
+}
+
+.container a {
+  display: inline-block;
+  font-weight: 400;
+  color: hsl(0, 0%, 0%);
+  text-transform: uppercase;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  position: relative;
+}
+
+.container a:hover {
+  color: hsl(190, 97%, 55%);
+}

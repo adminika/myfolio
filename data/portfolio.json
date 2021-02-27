@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "slug": "MasterGroup",
+    "path": "http://yandex.ru",
+    "title": "Ремонт компьютерной техники.",
+    "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, JS, SCSS, Gulp.",
+    "image": "./images/master-group.jpg",
+    "imageBig": "./images/master-group.png"
+  },
+  {
+    "id": 2,
+    "slug": "Sport Complex",
+    "path": "http://yandex.ru",
+    "title": "Спортивный комплекс",
+    "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
+    "image": "./images/sports-complex.jpg",
+    "imageBig": "./images/sports-complex.png"
+  },
+  {
+    "id": 3,
+    "slug": "Uber Taxi",
+    "path": "http://yandex.ru",
+    "title": "Uber такси",
+    "desc": "Сайт, главная страница. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
+    "image": "./images/uber-taxi.jpg",
+    "imageBig": "./images/uber-taxi.png"
+  },
+  {
+    "id": 4,
+    "slug": "Shans",
+    "path": "http://yandex.ru",
+    "title": "Интернет-магазин Shans",
+    "desc": "Интернет-магазин, главная страница. Сделан спомощью технологий: HTML, CSS, SCSS, JS, Slick Slider, Gulp.",
+    "image": "./images/shans.jpg",
+    "imageBig": "./images/shans.png"
+  },
+  {
+    "id": 5,
+    "slug": "Landing",
+    "path": "http://yandex.ru",
+    "title": "Landing Page",
+    "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
+    "image": "./images/landing.jpg",
+    "imageBig": "./images/landing.png"
+  },
+  {
+    "id": 6,
+    "slug": "Portfolio",
+    "path": "http://yandex.ru",
+    "title": "Landing Portfolio",
+    "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
+    "image": "./images/portfolio.jpg",
+    "imageBig": "./images/portfolio.png"
+  },
+  {
+    "id": 7,
+    "slug": "rosa",
+    "path": "http://yandex.ru",
+    "title": "Ресторан",
+    "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, SCSS, Gulp.",
+    "image": "./images/rosa.jpg",
+    "imageBig": "./images/rosa.png"
+  }
+]

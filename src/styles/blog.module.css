@@ -1,0 +1,12 @@
+.container {
+  padding: 0 20px;
+  margin: 4rem auto;
+  max-width: 70rem;
+  width: 100%;
+  text-align: center;
+}
+
+.container p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
