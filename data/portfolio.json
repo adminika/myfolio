@@ -1,15 +1,6 @@
 [
   {
     "id": 1,
-    "slug": "MasterGroup",
-    "path": "https://mastergrouppn.netlify.app",
-    "title": "Ремонт компьютерной техники.",
-    "desc": "Лендинг. Сделан спомощью технологий: HTML, CSS, JS, SCSS, Gulp.",
-    "image": "./images/master-group.jpg",
-    "imageBig": "./images/master-group.png"
-  },
-  {
-    "id": 2,
     "slug": "Sport Complex",
     "path": "https://sportcomplexpn.netlify.app",
     "title": "Спортивный комплекс",
@@ -18,7 +9,7 @@
     "imageBig": "./images/sports-complex.png"
   },
   {
-    "id": 3,
+    "id": 2,
     "slug": "Uber Taxi",
     "path": "https://ubertaxipn.netlify.app",
     "title": "Uber такси",
@@ -27,7 +18,7 @@
     "imageBig": "./images/uber-taxi.png"
   },
   {
-    "id": 4,
+    "id": 3,
     "slug": "Shans",
     "path": "https://shanspn.netlify.app",
     "title": "Интернет-магазин Shans",
@@ -36,7 +27,7 @@
     "imageBig": "./images/shans.png"
   },
   {
-    "id": 5,
+    "id": 4,
     "slug": "Landing",
     "path": "https://landingpn.netlify.app",
     "title": "Landing Page",
@@ -45,7 +36,7 @@
     "imageBig": "./images/landing.png"
   },
   {
-    "id": 6,
+    "id": 5,
     "slug": "Portfolio",
     "path": "https://portfoliopn.netlify.app",
     "title": "Landing Portfolio",
@@ -54,7 +45,7 @@
     "imageBig": "./images/portfolio.png"
   },
   {
-    "id": 7,
+    "id": 6,
     "slug": "rosa",
     "path": "https://rosapn.netlify.app",
     "title": "Ресторан",
